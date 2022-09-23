@@ -1,7 +1,6 @@
 // import Counter from "../components/counter";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import Counter from "./counter";
 import "./NavBar";
 import { cls } from "../libs/utils";
 
