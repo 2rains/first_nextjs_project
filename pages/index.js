@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <>
       <Layout test="hello">
-        <div>Home Page1</div>
+        <div>Home Page 하하하하</div>
       </Layout>
     </>
   );
